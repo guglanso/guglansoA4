@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"food":"kadai chicken","price":"$20.00","calories":"416"},
+        {"food":"handi chicken","price":"$30.00","calories":"416"},
+        {"food":"veg briyani","price":"$40.00","calories":"416"}
+    ]
+}
